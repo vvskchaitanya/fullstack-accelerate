@@ -7,12 +7,12 @@ Outlines the foundational and advanced topics for mastering **Java Backend Devel
 ---
 
 <details>
-  <summary><h2><a>Core Java</a></h2></summary>
+  <summary><h2><a>Core Java</a></summary>
 
 | Module | Topic | Theory | Hands-On | Assessments |
-|---------|----------|------------|------|----------|
+|----------|------------|------------|------|------|
 | Introduction | Overview of Java | [History and Evolution](./history-evolution)  <br> [Features of Java](./features-java)  <br> [Java Virtual Machine (JVM)](./jvm)  | TBD | TBD |
-|  | Setup of Java / JDK / IDE | [Installing Java Development Kit (JDK)](./install-jdk)  <br> [Configuring IDE](./configuring-ide) | TBD | TBD |
+|  | Setup of Java / JDK / IDE | [Install Java Development Kit (JDK)](./install-jdk)  <br> [Install IDE](./configuring-ide) | TBD | TBD |
 | Object-Oriented Programming | OOP Concepts | [Encapsulation](./encapsulation)  <br> [Abstraction](./abstraction)  <br> [Inheritance](./inheritance)  <br> [Polymorphism](./polymorphism) | TBD | TBD |
 | Exception Handling | Exception Handling | [Understanding exceptions](./understanding-exceptions)  <br> [try, catch, finally blocks](./try-catch-finally)  <br> [Exception Hierarchy](./exception-hierarchy) | TBD | TBD |
 | Exception Handling | Custom Exception | [Types of Exceptions (Checked vs Unchecked)](./checked-unchecked-exceptions)  <br> [User Defined Exception](./user-defined-exception) | TBD | TBD |
