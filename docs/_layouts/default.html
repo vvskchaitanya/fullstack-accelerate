@@ -15,16 +15,15 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
+    <header class="page-header" role="banner" style="padding:0">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </header>
 
     <main id="content" class="main-content" style="max-width:100%" role="main">
       {{ content }}
 
-      <footer class="site-footer">
-        <p>&copy; 2024 V.V.S.K Chaitanya | <a href="https://vvsk.in" target="_blank">vvsk.in</a></p>
+      <footer class="site-footer" style="text-align: center; padding: 30px;font-size:20px">
+        <p>&copy; 2025 V.V.S.K Chaitanya | <a href="https://vvsk.in" target="_blank">vvsk.in</a></p>
       </footer>
     </main>
   </body>
