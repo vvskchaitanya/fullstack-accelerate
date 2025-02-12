@@ -14,5 +14,3 @@ Provides complete course material for mastering **fullstack development** using 
 
 ---
 
-This guide provides a roadmap for mastering **fullstack development** with **Java, Spring Boot, and Angular**.
-
