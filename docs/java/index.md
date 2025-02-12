@@ -8,7 +8,9 @@ Outlines the foundational and advanced topics for mastering **Java Backend Devel
 
 ## Core Java
 
-| Module | Topic | Theory | Hands-On | Assessments |
+<details>
+  <summary><strong>Core Java</strong></summary>
+    | Module | Topic | Theory | Hands-On | Assessments |
 |---------|----------|------------|------|----------|
 | Introduction | Overview of Java | [History and Evolution](./history-evolution)  <br> [Features of Java](./features-java)  <br> [Java Virtual Machine (JVM)](./jvm)  | TBD | TBD |
 |  | Setup of Java / JDK / IDE | [Installing Java Development Kit (JDK)](./install-jdk)  <br> [Configuring IDE](./configuring-ide) | TBD | TBD |
@@ -17,6 +19,9 @@ Outlines the foundational and advanced topics for mastering **Java Backend Devel
 | Exception Handling | Custom Exception | [Types of Exceptions (Checked vs Unchecked)](./checked-unchecked-exceptions)  <br> [User Defined Exception](./user-defined-exception) | TBD | TBD |
 | Multithreading | Threads in Java | [Creating Threads](./creating-threads)  <br> [Thread Lifecycle](./thread-lifecycle)  <br> [Synchronization](./synchronization) | TBD | TBD |
 | Collections Framework | Java Collections | [List, Set, Map](./list-set-map)  <br> [Iterators](./iterators)  <br> [Sorting Collections](./sorting-collections) | TBD | TBD |
+</details>
+
+
 
 ## Advanced Java
 
