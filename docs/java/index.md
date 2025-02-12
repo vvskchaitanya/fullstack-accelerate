@@ -6,10 +6,8 @@ Outlines the foundational and advanced topics for mastering **Java Backend Devel
 
 ---
 
-## Core Java
-
 <details>
-  <summary><strong>Core Java</strong></summary>
+  <summary><h2>Core Java</h2></summary>
   
 | Module | Topic | Theory | Hands-On | Assessments |
 |---------|----------|------------|------|----------|
