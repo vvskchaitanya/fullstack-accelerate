@@ -1,8 +1,12 @@
-# Java Backend Development
+# [Home](./) >  Java Backend Development
 
-## Course Modules
+---
 
-### Core Java
+Outlines the foundational and advanced topics for mastering **Java Backend Development**.
+
+---
+
+## Core Java
 
 | Chapter | Topic | Sub-Topic | Theory | Hands-On | Assessments |
 |---------|-------|-----------|--------|----------|-------------|
@@ -14,7 +18,7 @@
 | Multithreading | Threads in Java | [Creating Threads](./creating-threads)  <br> [Thread Lifecycle](./thread-lifecycle)  <br> [Synchronization](./synchronization) | TBD | TBD | TBD |
 | Collections Framework | Java Collections | [List, Set, Map](./list-set-map)  <br> [Iterators](./iterators)  <br> [Sorting Collections](./sorting-collections) | TBD | TBD | TBD |
 
-### Advanced Java
+## Advanced Java
 
 | Chapter | Topic | Sub-Topic | Theory | Hands-On | Assessments |
 |---------|-------|-----------|--------|----------|-------------|
@@ -23,6 +27,4 @@
 | JSP | Java Server Pages | [JSP Basics](./jsp-basics)  <br> [Directives and Scripting Elements](./directives-scripting-elements)  <br> [JSP Lifecycle](./jsp-lifecycle) | TBD | TBD | TBD |
 
 ---
-
-This guide outlines the foundational topics for mastering **Java Backend Development**.
 
