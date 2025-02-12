@@ -1,4 +1,4 @@
-# [Home](./) >  Java Backend Development
+# [Home](../) >  Java Backend Development
 
 ---
 
