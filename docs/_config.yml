@@ -1,5 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: "Fullstack Accelerator"
+description: "Comprehensive Guide to Fullstack Development using Java, Spring Boot and Angular"
 show_github_link: false
 github.is_project_page: false
 plugins:
