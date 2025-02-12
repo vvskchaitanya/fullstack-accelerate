@@ -8,7 +8,7 @@ Outlines the foundational and advanced topics for mastering **Java Backend Devel
 
 <details>
   <summary><h2><a>Core Java</a></h2></summary>
-  
+
 | Module | Topic | Theory | Hands-On | Assessments |
 |---------|----------|------------|------|----------|
 | Introduction | Overview of Java | [History and Evolution](./history-evolution)  <br> [Features of Java](./features-java)  <br> [Java Virtual Machine (JVM)](./jvm)  | TBD | TBD |
