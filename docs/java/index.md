@@ -8,15 +8,15 @@ Outlines the foundational and advanced topics for mastering **Java Backend Devel
 
 ## Core Java
 
-| Chapter | Topic | Sub-Topic | Theory | Hands-On | Assessments |
+| Module | Topic | Theory | Hands-On | Assessments |
 |---------|-------|-----------|--------|----------|-------------|
-| Introduction | Overview of Java | [History and Evolution](./history-evolution)  <br> [Features of Java](./features-java)  <br> [Java Virtual Machine (JVM)](./jvm) | TBD | TBD | TBD |
-|  | Setup of Java / JDK / IDE | [Installing Java Development Kit (JDK)](./install-jdk)  <br> [Configuring IDE](./configuring-ide) | TBD | TBD | TBD |
-| Object-Oriented Programming | OOP Concepts | [Encapsulation](./encapsulation)  <br> [Abstraction](./abstraction)  <br> [Inheritance](./inheritance)  <br> [Polymorphism](./polymorphism) | TBD | TBD | TBD |
-| Exception Handling | Exception Handling | [Understanding exceptions](./understanding-exceptions)  <br> [try, catch, finally blocks](./try-catch-finally)  <br> [Exception Hierarchy](./exception-hierarchy) | TBD | TBD | TBD |
-| Exception Handling | Custom Exception | [Types of Exceptions (Checked vs Unchecked)](./checked-unchecked-exceptions)  <br> [User Defined Exception](./user-defined-exception) | TBD | TBD | TBD |
-| Multithreading | Threads in Java | [Creating Threads](./creating-threads)  <br> [Thread Lifecycle](./thread-lifecycle)  <br> [Synchronization](./synchronization) | TBD | TBD | TBD |
-| Collections Framework | Java Collections | [List, Set, Map](./list-set-map)  <br> [Iterators](./iterators)  <br> [Sorting Collections](./sorting-collections) | TBD | TBD | TBD |
+| Introduction | Overview of Java | [History and Evolution](./history-evolution)  <br> [Features of Java](./features-java)  <br> [Java Virtual Machine (JVM)](./jvm)  | TBD | TBD |
+|  | Setup of Java / JDK / IDE | [Installing Java Development Kit (JDK)](./install-jdk)  <br> [Configuring IDE](./configuring-ide) | TBD | TBD |
+| Object-Oriented Programming | OOP Concepts | [Encapsulation](./encapsulation)  <br> [Abstraction](./abstraction)  <br> [Inheritance](./inheritance)  <br> [Polymorphism](./polymorphism) | TBD | TBD |
+| Exception Handling | Exception Handling | [Understanding exceptions](./understanding-exceptions)  <br> [try, catch, finally blocks](./try-catch-finally)  <br> [Exception Hierarchy](./exception-hierarchy) | TBD | TBD |
+| Exception Handling | Custom Exception | [Types of Exceptions (Checked vs Unchecked)](./checked-unchecked-exceptions)  <br> [User Defined Exception](./user-defined-exception) | TBD | TBD |
+| Multithreading | Threads in Java | [Creating Threads](./creating-threads)  <br> [Thread Lifecycle](./thread-lifecycle)  <br> [Synchronization](./synchronization) | TBD | TBD |
+| Collections Framework | Java Collections | [List, Set, Map](./list-set-map)  <br> [Iterators](./iterators)  <br> [Sorting Collections](./sorting-collections) | TBD | TBD |
 
 ## Advanced Java
 
