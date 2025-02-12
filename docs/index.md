@@ -1,6 +1,4 @@
-# Fullstack Accelerator
-
-## Comprehensive Guide to Fullstack Development
+### A structured guide to mastering Java, Spring Boot, and Angular, enabling developers to build scalable web applications, microservices, and modern UIs
 
 | Stream                    | Technologies Involved                                  | What we develop                                           | Learning Outcomes                                          | Realtime Projects                                         |
 |---------------------------|------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
