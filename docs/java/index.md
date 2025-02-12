@@ -9,7 +9,7 @@ Outlines the foundational and advanced topics for mastering **Java Backend Devel
 ## Core Java
 
 | Module | Topic | Theory | Hands-On | Assessments |
-|---------|-------|-----------|--------|----------|-------------|
+|---------|----------|------------|------|----------|
 | Introduction | Overview of Java | [History and Evolution](./history-evolution)  <br> [Features of Java](./features-java)  <br> [Java Virtual Machine (JVM)](./jvm)  | TBD | TBD |
 |  | Setup of Java / JDK / IDE | [Installing Java Development Kit (JDK)](./install-jdk)  <br> [Configuring IDE](./configuring-ide) | TBD | TBD |
 | Object-Oriented Programming | OOP Concepts | [Encapsulation](./encapsulation)  <br> [Abstraction](./abstraction)  <br> [Inheritance](./inheritance)  <br> [Polymorphism](./polymorphism) | TBD | TBD |
