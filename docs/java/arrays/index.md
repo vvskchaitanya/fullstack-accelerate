@@ -1,4 +1,4 @@
-# Arrays in Java
+# [Java](./../java) > Arrays in Java
 
 ## Introduction
 An **array** in Java is a collection of elements of the **same type**, stored in a fixed-size sequence. 
