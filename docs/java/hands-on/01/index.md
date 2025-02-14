@@ -1,4 +1,4 @@
-# [Java](../../) - Handson 1
+# [Java](../../) - Excercise 1
 
 ### Problem 1: Arithmetic Operations
 **Description:**
@@ -121,14 +121,16 @@ Write a Java program to calculate simple interest.
 
 ### Problem 11: Check Positive or Negative Number
 **Description:**
-Write a Java program to check whether a number is positive, negative, or zero.
+Write a Java program to check whether input number is positive, negative, or zero.
 <br/>Demonstrate the program by changing input values
 
 **Example:**
 <pre>
-<b>Input1:</b> -10
-<b>Output1:</b> Negative
-<b>Input1:</b> 0
-<b>Output1:</b> Zero
+<table>
+<tr><th>Input</th><th>Output</th></tr>
+<tr><td>-20</td><td>Negative</td></tr>
+<tr><td>0</td><td>Zero</td></tr>
+<tr><td>30</td><td>Positive</td></tr>
+</table>
 </pre>
 
