@@ -1,4 +1,4 @@
-# [Java](../) - Handson Practice 1
+# [Java](../../) - Handson Practice 1
 
 ### Problem 1: Arithmetic Operations
 **Description:**
@@ -18,7 +18,7 @@ Write a Java program to calculate the area of a rectangle given its length and w
 Demonstrate the program by changing input values
 
 **Example:**
-```
+```html
 <b>Input:</b> Declare two variables length and width with values 20 and 10
 <b>Output:</b> Area is 200
 ```
