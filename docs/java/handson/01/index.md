@@ -3,30 +3,30 @@
 ### Problem 1: Arithmetic Operations
 **Description:**
 Write a Java program that performs basic arithmetic operations on two given numbers.
-Demonstrate the program by changing input values
+<br/>Demonstrate the program by changing input values
 
 **Example:**
-```md
-*Input:* Declare two variables a and b of integer type and with values 15 and 5
-*Output:* Sum: 20, Difference: 10, Product: 75, Quotient: 3, Remainder: 0
-```
+<pre>
+<b>Input:</b> Declare two variables a and b of integer type and with values 15 and 5
+<b>Output:</b> Sum: 20, Difference: 10, Product: 75, Quotient: 3, Remainder: 0
+</pre>
 
 
 ### Problem 2: Area of a Rectangle
 **Description:**
 Write a Java program to calculate the area of a rectangle given its length and width.
-Demonstrate the program by changing input values
+<br/>Demonstrate the program by changing input values
 
 **Example:**
-```md
-*Input:* Declare two variables length and width with values 20 and 10
-*Output:* Area is 200
-```
+<pre>
+<b>Input:</b> Declare two variables length and width with values 20 and 10
+<b>Output:</b> Area is 200
+</pre>
 
 ### Problem 3: Fahrenheit to Celsius Conversion
 **Description:**
 Write a Java program to convert a given temperature from Fahrenheit to Celsius.
-
+<br/>Demonstrate the program by changing input values
 **Formula:**
 - Celsius = (Fahrenheit - 32) * 5/9
 
