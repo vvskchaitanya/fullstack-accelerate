@@ -7,8 +7,8 @@ Demonstrate the program by changing input values
 
 **Example:**
 ```md
-<b>Input:</b> Declare two variables a and b of integer type and with values 15 and 5
-<b>Output:</b> Sum: 20, Difference: 10, Product: 75, Quotient: 3, Remainder: 0
+*Input:* Declare two variables a and b of integer type and with values 15 and 5
+*Output:* Sum: 20, Difference: 10, Product: 75, Quotient: 3, Remainder: 0
 ```
 
 
@@ -18,9 +18,9 @@ Write a Java program to calculate the area of a rectangle given its length and w
 Demonstrate the program by changing input values
 
 **Example:**
-```html
-<b>Input:</b> Declare two variables length and width with values 20 and 10
-<b>Output:</b> Area is 200
+```md
+*Input:* Declare two variables length and width with values 20 and 10
+*Output:* Area is 200
 ```
 
 ### Problem 3: Fahrenheit to Celsius Conversion
