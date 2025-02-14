@@ -6,7 +6,7 @@ Write a Java program that performs basic arithmetic operations on two given numb
 Demonstrate the program by changing input values
 
 **Example:**
-```
+```md
 <b>Input:</b> Declare two variables a and b of integer type and with values 15 and 5
 <b>Output:</b> Sum: 20, Difference: 10, Product: 75, Quotient: 3, Remainder: 0
 ```
