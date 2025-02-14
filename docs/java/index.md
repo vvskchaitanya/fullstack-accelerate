@@ -10,8 +10,9 @@ Outlines the foundational and advanced topics for mastering **Java Backend Devel
 
 | Module | Topic | Theory | Hands-On | Assessments |
 |----------|------------|------------|------|------|
-| Introduction | Overview of Java | [History and Evolution](./history-evolution)  <br> [Features of Java](./features-java)  <br> [Java Virtual Machine (JVM)](./jvm)  | TBD | TBD |
+| Introduction | Overview of Java | [Introduction to Java](./introuduction) <br> [History and Evolution](./history-evolution)  <br> [Features of Java](./features)  <br> [Java Virtual Machine (JVM)](./jvm)  | TBD | TBD |
 |  | Setup of Java / JDK / IDE | [Install Java Development Kit (JDK)](./install-jdk)  <br> [Install IDE](./configuring-ide) | TBD | TBD |
+|  | Java Basics | [Structure of Java](./structure)  <br> [DataTypes and Variables](./datatypes) <br> [Operators](./operators) <br> [Arrays](./arrays) <br> [Strings](./strings) | TBD | TBD |
 | Object-Oriented Programming | OOP Concepts | [Encapsulation](./encapsulation)  <br> [Abstraction](./abstraction)  <br> [Inheritance](./inheritance)  <br> [Polymorphism](./polymorphism) | TBD | TBD |
 | Collections Framework | Java Collections | [List, Set, Map](./list-set-map)  <br> [Iterators](./iterators)  <br> [Sorting Collections](./sorting-collections) | TBD | TBD |
 
