@@ -1,4 +1,4 @@
-# [Java](./../java) >Introduction
+# [Java](../) >Introduction
 
 ## What is Java?
 Java is a popular programming language known for its simplicity, platform independence, and security. It is widely used for building applications in web development, mobile development, and enterprise software.
@@ -76,18 +76,6 @@ Java follows Object-Oriented Programming (OOP), which includes:
 4. **Encapsulation** – Restricts access to data using access modifiers.
 5. **Abstraction** – Hides implementation details.
 
-Example of a Java class:
-```java
-class Car {
-    String brand = "Toyota";
-}
-public class Main {
-    public static void main(String[] args) {
-        Car myCar = new Car();
-        System.out.println(myCar.brand);
-    }
-}
-```
 
 ## Conclusion
 Java is a powerful language that is beginner-friendly and widely used in the industry. Understanding the basics of Java is the first step toward mastering programming.
