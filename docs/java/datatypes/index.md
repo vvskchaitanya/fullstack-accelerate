@@ -34,6 +34,7 @@ Java has two main categories of data types:
 Primitive data types are the most basic types built into Java. There are **8 types**:
 
 ### **Integer Types**
+
 | Data Type | Size  | Default Value | Example Value |
 |-----------|-------|---------------|---------------|
 | `byte`    | 1 byte  | 0  | `byte b = 127;` |
@@ -42,12 +43,14 @@ Primitive data types are the most basic types built into Java. There are **8 typ
 | `long`    | 8 bytes | 0L | `long l = 10000000000L;` |
 
 ### **Floating-Point Types**
+
 | Data Type | Size  | Default Value | Example Value |
 |-----------|-------|---------------|---------------|
 | `float`   | 4 bytes | 0.0f  | `float f = 12.34f;` |
 | `double`  | 8 bytes | 0.0d  | `double d = 123.456;` |
 
 ### **Character & Boolean**
+
 | Data Type  | Size  | Default Value | Example Value |
 |------------|-------|---------------|---------------|
 | `char`     | 2 bytes | `\u0000`  | `char ch = 'A';` |
