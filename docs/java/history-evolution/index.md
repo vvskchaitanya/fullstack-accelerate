@@ -46,6 +46,6 @@ Java has come a long way since its inception, continuously evolving to meet mode
 ---
 
 🔗 **Related Topics:**
-- [Introduction to Java](../introduction/)
+- [Introduction to Java](../introduction)
 - [Java Features](../features)
 
