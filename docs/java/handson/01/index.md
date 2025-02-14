@@ -1,31 +1,26 @@
-# Java Basics - Hands-on Problem Statements
-
-## 1. Data Types & Operators
+# [Java](../) - Handson Practice 1
 
 ### Problem 1: Arithmetic Operations
 **Description:**
 Write a Java program that performs basic arithmetic operations on two given numbers.
 Demonstrate the program by changing input values
-**Sample Input:**
+
+**Example:**
 ```
-Declare two variables a and b of integer type and with values 15 and 5
+<b>Input:</b> Declare two variables a and b of integer type and with values 15 and 5
+<b>Output:</b> Sum: 20, Difference: 10, Product: 75, Quotient: 3, Remainder: 0
 ```
-**Sample Output:**
-```
-Sum: 20, Difference: 10, Product: 75, Quotient: 3, Remainder: 0
-```
+
 
 ### Problem 2: Area of a Rectangle
 **Description:**
 Write a Java program to calculate the area of a rectangle given its length and width.
 Demonstrate the program by changing input values
-**Sample Input:**
+
+**Example:**
 ```
-Declare two variables length and width with values 20 and 10
-```
-**Sample Output:**
-```
-Area is 200
+<b>Input:</b> Declare two variables length and width with values 20 and 10
+<b>Output:</b> Area is 200
 ```
 
 ### Problem 3: Fahrenheit to Celsius Conversion
