@@ -11,7 +11,7 @@ Outlines the foundational and advanced topics for mastering **Java Backend Devel
 | Module | Topic | Theory | Hands-On | Assessments |
 |----------|------------|------------|------|------|
 | Introduction | Overview of Java | [Introduction to Java](./introduction) <br> [History and Evolution](./history-evolution)  <br> [Features of Java](./features)  <br> [JDK / JRE / JVM](./jdk-jre-jvm) | [Install Java](./install-jdk) <br> [Install IDE](./install-ide) | TBD |
-|  | Java Basics | [DataTypes](./datatypes) <br> [Operators](./operators) <br> [Arrays](./arrays) <br> [Strings](./strings) | TBD | TBD |
+|  | Java Basics | [DataTypes](./datatypes) <br> [Operators](./operators) <br> [Arrays](./arrays) <br> [Strings](./strings) | [Excercise 1](./hands-on/01) <br> [Excercise 2](./hands-on/02) <br> [Excercise 3](./hands-on/03) | TBD |
 |  | Control Flow | [Conditional Statements](./conditional-statements) <br> [Loop Statements](./loop-statements) <br> [Jump Statements](./jump-statements) | TBD | TBD |
 | Object-Oriented Programming | OOP Concepts | [Encapsulation](./encapsulation)  <br> [Abstraction](./abstraction)  <br> [Inheritance](./inheritance)  <br> [Polymorphism](./polymorphism) | TBD | TBD |
 | Collections Framework | Java Collections | [List, Set, Map](./list-set-map)  <br> [Iterators](./iterators)  <br> [Sorting Collections](./sorting-collections) | TBD | TBD |
