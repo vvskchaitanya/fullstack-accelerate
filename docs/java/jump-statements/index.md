@@ -10,7 +10,7 @@ Jump statements in Java are used to transfer control to another part of the prog
 
 ---
 
-## 1. `break` Statement
+## 1. break Statement
 The `break` statement is used to exit a loop or a switch statement immediately when encountered.
 
 ### Syntax
@@ -69,7 +69,7 @@ Wednesday
 
 ---
 
-## 2. `continue` Statement
+## 2. continue Statement
 The `continue` statement is used to skip the current iteration of a loop and move to the next iteration.
 
 ### Syntax
@@ -96,7 +96,7 @@ for (int i = 1; i <= 5; i++) {
 
 ---
 
-## 3. `return` Statement
+## 3. return Statement
 The `return` statement is used to exit from a method and optionally return a value.
 
 ### Syntax

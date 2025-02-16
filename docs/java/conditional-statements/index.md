@@ -12,7 +12,7 @@ Conditional statements in Java allow a program to make decisions based on condit
 
 ---
 
-## 1. `if` Statement
+## 1. if Statement
 The `if` statement executes a block of code only if a given condition is `true`.
 
 ### Syntax
@@ -36,7 +36,7 @@ Positive number
 
 ---
 
-## 2. `if-else` Statement
+## 2. if-else Statement
 If the condition is `true`, the `if` block executes; otherwise, the `else` block executes.
 
 ### Syntax
@@ -64,7 +64,7 @@ Negative number
 
 ---
 
-## 3. `if-else-if` Ladder
+## 3. if-else-if Ladder
 Used when multiple conditions need to be checked sequentially.
 
 ### Syntax
@@ -98,7 +98,7 @@ Grade: B
 
 ---
 
-## 4. Nested `if-else` Statement
+## 4. Nested if-else Statement
 An `if-else` statement inside another `if-else` is called nested `if-else`.
 
 ### Syntax
@@ -134,7 +134,7 @@ Positive odd number
 
 ---
 
-## 5. `switch` Statement
+## 5. switch Statement
 The `switch` statement is used when one variable is compared against multiple possible values.
 
 ### Syntax
