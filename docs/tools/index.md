@@ -2,7 +2,7 @@
 
 Below is the list of essential tools / software used for full-stack development.
 
-Quick Installation Manual
+Each link leads to a detailed installation guide for the respective software.
 
 | Software         | Installation Guide | Category |
 |-----------------|-------------------|----------|
@@ -19,4 +19,4 @@ Quick Installation Manual
 | Install Git     | [Git](./git) | Version Control |
 | Install Postman | [Postman](./postman) | API Testing |
 
-Each link leads to a detailed installation guide for the respective software.
+
