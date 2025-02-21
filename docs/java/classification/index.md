@@ -1,6 +1,4 @@
-# Fullstack Accelerator
-
-# Java > Object-Oriented Programming > Classification
+# [Java](../) > OOP > Classification
 
 ## Introduction
 
