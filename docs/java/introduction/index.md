@@ -85,4 +85,7 @@ Java is a powerful language that is beginner-friendly and widely used in the ind
 🔗 **Related Topics:**
 - [History and Evolution](../history-evolution/)
 - [Java Features](../features)
+- [JDK / JRE / JVM](../jdk-jre-jvm)
+
+---
 
