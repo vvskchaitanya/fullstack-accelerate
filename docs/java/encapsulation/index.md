@@ -84,3 +84,14 @@ public class Main {
 - Just like a **capsule**, encapsulation ensures that data is protected and only accessible through safe methods.
 
 Encapsulation enhances security, maintainability, and reusability, making it an essential concept in Java development.
+
+---
+
+🔗 **Related Topics:**
+- [Classification](../classification/)
+- [Inheritance](../inheritance)
+- [Abstraction](../abstraction)
+- [Polymorphism](../polymorphism)
+
+---
+

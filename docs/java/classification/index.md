@@ -107,3 +107,13 @@ class DatabaseConnection {
 - Provide an example where **factory objects** are useful.
 
 ***
+
+---
+
+🔗 **Related Topics:**
+- [Encapsulation](../encapsulation/)
+- [Inheritance](../inheritance)
+- [Abstraction](../abstraction)
+- [Polymorphism](../polymorphism)
+
+---

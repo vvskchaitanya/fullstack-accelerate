@@ -80,3 +80,14 @@ public class Main {
 - In the multilevel example, `Dog` inherits from `Mammal`, which itself inherits from `Animal`.
 
 Inheritance simplifies development by reducing redundancy and promoting a structured approach to object-oriented programming.
+
+---
+
+🔗 **Related Topics:**
+- [Classification](../classification)
+- [Encapsulation](../encapsulation)
+- [Abstraction](../abstraction)
+- [Polymorphism](../polymorphism)
+
+---
+
