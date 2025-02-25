@@ -8,7 +8,7 @@
 ---
 #### Example 1: Book and BookStore
 
-````mermaid
+```mermaid
 
 classDiagram
     class Book {
@@ -29,5 +29,5 @@ classDiagram
     }
 
     BookStore "1" --> "many" Book : contains
-    
-````
+
+```
