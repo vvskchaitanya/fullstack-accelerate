@@ -9,4 +9,4 @@
 ---
 #### Example 1: Book and BookStore
 
-![Book and BookStore UML](./image.png)
+![Book and BookStore](./image.png)
