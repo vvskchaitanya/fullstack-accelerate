@@ -1,4 +1,4 @@
-# [Java](../../) - OOP - Encapsulation
+# [Java](../../) - OOP - Inheritance
 
 ### Learning Objectives:
 
