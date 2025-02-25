@@ -1,8 +1,10 @@
 # [Java](../../) - OOP - Classification
 
 ### Learning Objectives:
+
 - Implement Object Classification in Java, Define properties and methods
 - Create object instances using Java constructors
+
 ---
 
 ### Task 1: Object Classification and Properties/Methods
