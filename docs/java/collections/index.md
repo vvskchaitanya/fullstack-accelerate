@@ -84,3 +84,10 @@ public class UtilityExample {
 ## Conclusion
 Java Collections provide a powerful way to manage data structures efficiently. Choose the right collection type based on your use case for optimal performance.
 
+---
+
+🔗 **Related Topics:**
+- [ArrayList](../arraylist/)
+- [Sorting](../sorting)
+
+---

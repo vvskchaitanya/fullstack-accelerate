@@ -1,6 +1,6 @@
-# [Java](../) > JDK, JRE, and JVM
+# [Java](../) > JDK, JRE and JVM
 
-# Understanding JDK, JRE, and JVM
+# Understanding JDK, JRE and JVM
 
 Java is a powerful programming language, and to execute Java programs efficiently, we need an understanding of three key components: **JDK (Java Development Kit), JRE (Java Runtime Environment), and JVM (Java Virtual Machine).** Each plays a vital role in Java program execution.
 
@@ -52,10 +52,10 @@ JDK is a **complete package** for Java development. It contains everything neede
 
 | Feature       | JVM | JRE | JDK |
 |--------------|-----|-----|-----|
-| Contains Compiler | ❌ | ❌ | ✅ |
-| Contains JVM | ✅ | ✅ | ✅ |
-| Contains Libraries | ❌ | ✅ | ✅ |
 | Used for Development | ❌ | ❌ | ✅ |
+| Contains Compiler | ❌ | ❌ | ✅ |
+| Contains Libraries | ❌ | ✅ | ✅ |
+| Contains JVM | ✅ | ✅ | ✅ |
 | Used for Running Java Applications | ✅ | ✅ | ✅ |
 
 ## **Example: Compilation and Execution Process**
