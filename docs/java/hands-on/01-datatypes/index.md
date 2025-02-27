@@ -134,3 +134,16 @@ Write a Java program to check whether input number is positive, negative, or zer
 </table>
 </pre>
 
+---
+
+[Excercise 2 →](../02-arrays)
+
+---
+
+🔗 **Related Topics:**
+- [Datatypes](../../datatypes/)
+- [Operators](../../operators)
+- [Arrays](../../arrays)
+- [Strings](../../strings)
+
+---
