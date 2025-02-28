@@ -79,23 +79,63 @@ A phonebook application stores contacts with names and phone numbers. Implement 
 
 ---
 
-## Challenge Task
-Implement a **shopping cart system** where:
+## Java Collections - Sorting Exercises
 
-- A `List` holds items added to the cart.
-- A `Set` ensures that only unique product IDs are added.
-- A `Map` maintains the product name and price.
+## Exercise 4: Sorting Books by Title (Using `Comparable`)
+
+### Problem
+A library needs to sort books by title in alphabetical order. Implement the `Comparable` interface to allow sorting of book objects.
+
+1. Define a `Book` class with title and author.
+2. Implement the `Comparable` interface to sort books by title.
+3. Add books to a `List` and sort them.
+4. Display the sorted list.
 
 ### Input & Output
 #### Input:
-- A list of items to add to the cart.
-- A product ID to add.
-- A name-price pair to store in the map.
+- A list of books with title and author.
 
 #### Expected Output:
-- The list of items in the cart.
-- The set of unique product IDs.
-- The map of product names with prices.
+- The list of books sorted by title.
+
+---
+
+## Exercise 5: Sorting Students by Age (Using `Comparator`)
+
+### Problem
+A university maintains student records and needs to sort them by age. Implement the `Comparator` interface for custom sorting.
+
+1. Define a `Student` class with name and age.
+2. Create a `Comparator` implementation to sort students by age.
+3. Add students to a `List` and sort them.
+4. Display the sorted list.
+
+### Input & Output
+#### Input:
+- A list of students with name and age.
+
+#### Expected Output:
+- The list of students sorted by age in ascending order.
+
+---
+
+## Exercise 6: Sorting Products by Price (Using `Comparator` with Lambda)
+
+### Problem
+An e-commerce store needs to sort products by price. Use Java 8 lambdas to define the sorting logic.
+
+1. Define a `Product` class with name and price.
+2. Use a lambda expression to sort products by price.
+3. Add products to a `List` and sort them.
+4. Display the sorted list.
+
+### Input & Output
+#### Input:
+- A list of products with name and price.
+
+#### Expected Output:
+- The list of products sorted by price in ascending order.
+
 
 ---
 
