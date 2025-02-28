@@ -80,6 +80,10 @@ Java is a powerful language that is beginner-friendly and widely used in the ind
 
 ---
 
+[← Java](../) | [History and Evolution →](../history-evolution)
+
+---
+
 🔗 **Related Topics:**
 - [Introduction](../introduction/)
 - [History and Evolution](../history-evolution/)

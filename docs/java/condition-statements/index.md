@@ -191,6 +191,12 @@ Wednesday
 Conditional statements are essential in Java for making decisions in a program. Understanding `if`, `if-else`, `if-else-if`, nested `if-else`, and `switch` helps in writing efficient and logical programs.
 
 ---
-🔗 **Related Topics:**
+
+[← Strings](../strings) | [Loop Statements →](../loop-statements)
+
+---
+
+**🔗 Related Topics:**
+- [Conditinal Statements](../conditional)
 - [Loop Statements](../loop-statements)
-- [Jump Statements](../jump-statements)
+- [Jump Statements](../jump-satements)

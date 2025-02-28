@@ -115,7 +115,13 @@ System.out.println(sbf.toString());
 Strings are essential in Java programming, used in almost every application. Understanding how to create, manipulate, and optimize them improves performance and code efficiency.
 
 ---
-🔗 **Related Topics:**
-- [Arrays](../arrays)
-- [Datatypes](../datatypes)
 
+[← Arrays](../arrays) | [Conditional Statements →](../conditional-statements)
+
+---
+
+**🔗 Related Topics:**
+- [Datatypes](../datatypes)
+- [Operators](../operators)
+- [Arrays](../arrays)
+- [Strings](../strings)

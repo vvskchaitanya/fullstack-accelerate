@@ -140,7 +140,14 @@ System.out.println(max); // Output: 20
 Operators in Java are fundamental building blocks that allow developers to perform calculations, comparisons, and logical operations efficiently. Understanding these operators is essential for writing clean and optimized Java programs.
 
 ---
-🔗 **Related Topics:**
+
+[← Datatypes](../datatypes) | [Arrays →](../arrays)
+
+---
+
+**🔗 Related Topics:**
 - [Datatypes](../datatypes)
+- [Operators](../operators)
 - [Arrays](../arrays)
+- [Strings](../strings)
 

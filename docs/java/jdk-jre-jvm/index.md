@@ -82,6 +82,10 @@ Understanding these components is essential for both beginners and advanced Java
 
 ---
 
+[← Features](../introduction) | [Datatypes →](../datatypes)
+
+---
+
 🔗 **Related Topics:**
 - [Introduction](../introduction/)
 - [History and Evolution](../history-evolution/)

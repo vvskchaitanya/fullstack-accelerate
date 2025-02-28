@@ -71,6 +71,10 @@ Java continues to evolve with regular updates, making it one of the most preferr
 
 ---
 
+[← History and Evolution](../history-evolution/) | [JDK / JRE / JVM →](../jdk-jre-jvm)
+
+---
+
 🔗 **Related Topics:**
 - [Introduction](../introduction/)
 - [History and Evolution](../history-evolution/)

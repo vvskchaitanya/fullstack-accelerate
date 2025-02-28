@@ -118,7 +118,13 @@ Java provides a rich set of data types to handle different kinds of information 
 
 ---
 
+[← JDK JRE JVM](../jdk-jre-jvm) | [Operators →](../operators)
+
+---
+
 **🔗 Related Topics:**
+- [Datatypes](../datatypes)
 - [Operators](../operators)
 - [Arrays](../arrays)
+- [Strings](../strings)
 

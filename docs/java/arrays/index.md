@@ -169,6 +169,13 @@ Arrays are a fundamental data structure in Java, providing a way to store and ma
 
 ---
 
+[← Operators](../operators) | [Strings →](../strings)
+
+---
+
 **🔗 Related Topics:**
-- [DataTypes](../datatypes)
+- [Datatypes](../datatypes)
+- [Operators](../operators)
+- [Arrays](../arrays)
+- [Strings](../strings)
 
