@@ -8,7 +8,7 @@ Outlines the foundational and advanced topics for mastering **Java Backend Devel
 ## Core Java
 ---
 
-| Topic | Theory | Hands-On | Assessments |
+| Module | Topics | Hands-On | Assessments |
 |----------|------------|------------|------|------|
 | Overview of Java | [Introduction to Java](./introduction) <br> [History and Evolution](./history-evolution)  <br> [Features of Java](./features)  <br> [JDK / JRE / JVM](./jdk-jre-jvm) | [Install Java](./install-jdk) <br> [Install IDE](./install-ide) <br> [Hello Java](./hellojava) | |
 |  | Java Basics | [DataTypes](./datatypes) <br> [Operators](./operators) <br> [Arrays](./arrays) <br> [Strings](./strings) | [Excercise 1](./hands-on/01-datatypes) <br> [Excercise 2](./hands-on/02-arrays) <br> [Excercise 3](./hands-on/03-string) | [Assessment 1](https://docs.google.com/forms/d/e/1FAIpQLSfH0ykbGSqX6Ceq6EId8WI7Eqq65R7GGtrE_g8qRiRr9cbFjA/viewform?usp=dialog) |
@@ -20,7 +20,7 @@ Outlines the foundational and advanced topics for mastering **Java Backend Devel
 ## Advanced Java
 ---
 
-| Topic | Theory | Hands-On | Assessments |
+| Module | Topics | Hands-On | Assessments |
 |----------|------------|------------|------|------|
 | Exception Handling | [Understanding exceptions](./understanding-exceptions)  <br> [try, catch, finally blocks](./try-catch-finally)  <br> [Exception Hierarchy](./exception-hierarchy) | TBD | TBD |
 |  Custom Exception | [Types of Exceptions (Checked vs Unchecked)](./checked-unchecked-exceptions)  <br> [User Defined Exception](./user-defined-exception) | TBD | TBD |
