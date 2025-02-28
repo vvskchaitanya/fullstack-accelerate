@@ -76,16 +76,18 @@ Java follows Object-Oriented Programming (OOP), which includes:
 4. **Encapsulation** – Restricts access to data using access modifiers.
 5. **Abstraction** – Hides implementation details.
 
-
-## Conclusion
 Java is a powerful language that is beginner-friendly and widely used in the industry. Understanding the basics of Java is the first step toward mastering programming.
 
 ---
 
 🔗 **Related Topics:**
+- [Introduction](../introduction/)
 - [History and Evolution](../history-evolution/)
 - [Java Features](../features)
 - [JDK / JRE / JVM](../jdk-jre-jvm)
+- [Install JDK](../install-jdk)
+- [Install IDE](../install-ide/)
+- [Hello Java](../hellojava/)
 
 ---
 

@@ -83,8 +83,12 @@ Understanding these components is essential for both beginners and advanced Java
 ---
 
 🔗 **Related Topics:**
-- [Introduction to Java](../introduction)
+- [Introduction](../introduction/)
 - [History and Evolution](../history-evolution/)
 - [Java Features](../features)
+- [JDK / JRE / JVM](../jdk-jre-jvm)
+- [Install JDK](../install-jdk)
+- [Install IDE](../install-ide/)
+- [Hello Java](../hellojava/)
 
 ---
