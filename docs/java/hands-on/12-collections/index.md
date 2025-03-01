@@ -1,6 +1,4 @@
-# [Java](../../) - Collections - Basic
-
-# Java Collections - Hands-on Exercises
+# [Java](../../) - Collections - Hands-on
 
 ## Learning Objectives
 

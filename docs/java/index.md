@@ -22,8 +22,8 @@ Outlines the foundational and advanced topics for mastering **Java Backend Devel
 
 | Module | Topics | Hands-On | Assessments |
 |----------|------------|------------|------|------|
-| Exception Handling | [Understanding exceptions](./understanding-exceptions)  <br> [try, catch, finally blocks](./try-catch-finally)  <br> [Exception Hierarchy](./exception-hierarchy) | TBD | TBD |
-|  Custom Exception | [Types of Exceptions (Checked vs Unchecked)](./checked-unchecked-exceptions)  <br> [User Defined Exception](./user-defined-exception) | TBD | TBD |
+| Exception Handling | [Exception Handling](./exception-handling)  <br> [try, catch, finally blocks](./try-catch-finally)  <br> [Exception Hierarchy](./exception-hierarchy) | TBD | TBD |
+|  Types of Exception | [Checked vs Unchecked)](./checked-unchecked)  <br> [Custom Exception](./custom-exceptions) | TBD | TBD |
 |  File Handling | [Files IO](./files-io)  <br> [File Permission](./file-permissions) <br> [NIO Files](./nio-files)| TBD | TBD |
 | Multithreading | [Creating Threads](./creating-threads)  <br> [Thread Lifecycle](./thread-lifecycle)  <br> [Synchronization](./synchronization) | TBD | TBD |
 | Virtual Threads <br> [Java 21] | [Creating Virtual Threads](./creating-threads) | TBD | TBD |
