@@ -139,7 +139,7 @@ An e-commerce store needs to sort products by price. Use Java 8 lambdas to defin
 
 ---
 
-[← Excercise 11](../hands-on/11-abstraction) | [Next Topic TBD →](../next-topic)
+[← Excercise 11](../11-abstraction) | [Next Topic TBD →](../next-topic)
 
 ---
 
