@@ -108,11 +108,11 @@ Exception handling in Java helps **make programs more reliable and error-resista
 
 ---
 
-[← Streams API](../streams-api) | [Multithreading →](../multithreading)
+[← Streams API](../streams-api) | [Try Catch Finally →](../try-catch-finally)
 
 ---
 
 🔗 **Related Topics:**
-- [Java Basics](../java-basics/)
-- [File Handling](../file-handling/)
+- [Try Catch Finally](../try-catch-finally)
+- [Custom Exceptions](../custom-exceptions/)
 
